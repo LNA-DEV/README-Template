@@ -1,4 +1,4 @@
-<!-- VERSION: LNA-DEV-README-TEMPLATE V{TOBEREPLACED} -->
+<!-- VERSION: LNA-DEV-README-TEMPLATE V1.1 -->
 
 <div id="top"></div>
 
