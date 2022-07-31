@@ -1,3 +1,5 @@
+<!-- VERSION: LNA-DEV-README-TEMPLATE V1.1 -->
+
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
