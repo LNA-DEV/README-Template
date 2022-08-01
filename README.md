@@ -1,4 +1,4 @@
-<!-- VERSION: LNA-DEV-README-TEMPLATE V1.1 -->
+<!-- VERSION: LNA-DEV-README-TEMPLATE V1.2 -->
 
 <div id="top"></div>
 
@@ -38,14 +38,14 @@ In this repository I have created a README-Template based on Best-README-Templat
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 🗺️
 
 <!-- TODO Tell the world about your project -->
 Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Build With
+## Build With 🏗️
 
 <!-- TODO Go to https://github.com/Ileriayo/markdown-badges and search for a fitting batch🙃 -->
 
@@ -55,7 +55,7 @@ Here you can describe your project a little bit more. Explain the world your tho
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing ✨
 
 <!-- TODO Customize the contributing text -->
 If you have any ideas or want to contribute yourself... go for it. I really appreciate it if some of you have cool ideas🚀
@@ -64,7 +64,7 @@ If you have any ideas or want to contribute yourself... go for it. I really appr
 
 <!-- LICENSE -->
 <!-- TODO Add the License description -->
-## License
+## License 📝
 
 The code is distributed under the MIT License. See `LICENSE` for more information.
 
@@ -72,7 +72,7 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- TODO Add your acknowledgments -->
-## Acknowledgments
+## Acknowledgments 🙏
 
 - [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
