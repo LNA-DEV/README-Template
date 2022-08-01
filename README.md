@@ -38,14 +38,14 @@ In this repository I have created a README-Template based on Best-README-Templat
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 🗺️
 
 <!-- TODO Tell the world about your project -->
 Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Build With
+## Build With 🏗️
 
 <!-- TODO Go to https://github.com/Ileriayo/markdown-badges and search for a fitting batch🙃 -->
 
