@@ -27,7 +27,7 @@ In this repository I have created a README-Template based on Best-README-Templat
 
 <br />
 
-<!-- Change the Link -->
+<!-- TODO Change the Link -->
 <a href="https://lna-dev.com"><strong>Explore the Project »</strong></a>
 <br />
 <br />
