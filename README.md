@@ -1,4 +1,4 @@
-<!-- VERSION: LNA-DEV-README-TEMPLATE V1.2 -->
+<!-- VERSION: LNA-DEV-README-TEMPLATE V1.3 -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
