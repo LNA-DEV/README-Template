@@ -1,7 +1,5 @@
 <!-- VERSION: LNA-DEV-README-TEMPLATE V1.2 -->
 
-<div id="top"></div>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -18,7 +16,7 @@
   </a>
 
 <!-- TODO Change the project name -->
-<h3 align="center">README-Template</h3>
+### README-Template
 
 <!-- TODO Change the description -->
 In this repository I have created a README-Template based on Best-README-Template
@@ -43,7 +41,7 @@ In this repository I have created a README-Template based on Best-README-Templat
 <!-- TODO Tell the world about your project -->
 Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 ## Build With 🏗️
 
@@ -52,7 +50,7 @@ Here you can describe your project a little bit more. Explain the world your tho
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- CONTRIBUTING -->
 ## Contributing ✨
@@ -60,7 +58,7 @@ Here you can describe your project a little bit more. Explain the world your tho
 <!-- TODO Customize the contributing text -->
 If you have any ideas or want to contribute yourself... go for it. I really appreciate it if some of you have cool ideas🚀
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- LICENSE -->
 <!-- TODO Add the License description -->
@@ -68,7 +66,7 @@ If you have any ideas or want to contribute yourself... go for it. I really appr
 
 The code is distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- TODO Add your acknowledgments -->
@@ -77,8 +75,6 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 - [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
-
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- TODO Update your user name -->
