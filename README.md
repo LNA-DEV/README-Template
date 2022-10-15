@@ -30,7 +30,7 @@ In this repository I have created a README-Template based on Best-README-Templat
 
 <br />
 
-<!-- TODO Change the Link -->
+<!-- TODO Change the Link for Project, Bug and Feature -->
 <a href="https://lna-dev.com"><strong>Explore the Project »</strong></a>
 <br />
 <br />
